@@ -1,0 +1,4 @@
+.husky
+logs
+Dockerfile
+.gitignore
